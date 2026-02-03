@@ -84,3 +84,12 @@ Configurable password policies
 Unicode character support
 
 Packaging as a pip-installable tool
+
+## ✨ Recent Improvements
+
+- Added visual strength progress bar with color-coded feedback
+- Introduced Lighthouse-style security score based on entropy and issues
+- Displayed estimated offline and online crack times in human-readable format
+- Added API latency badge for real-time performance insight
+- Improved UX with clearer warnings and safer password handling
+- Included direct links to GitHub source and live API documentation
